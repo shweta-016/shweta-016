@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shweta Subhash Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Shweta Jadhav</h1>
 <h3 align="center">Detail-oriented and passionate Data Science student with hands-on experience in machine learning, Python programming, data analysis, and visualization tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-016&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-016" /> </p>
