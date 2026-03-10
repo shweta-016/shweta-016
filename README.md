@@ -36,14 +36,13 @@ Git , GitHub , Jupyter Notebook , VS Code
 <img src="https://streak-stats.demolab.com?user=shweta-016&theme=tokyonight"/>
 </p>
 
-![Snake animation](https://github.com/shweta-016/shweta-016/blob/output/github-contribution-grid-snake.svg)
-
-
-
+<p align="center">
+  <img src="https://github.com/shweta-016/shweta-016/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shweta-016&theme=tokyonight"/>
 </p>
 
 ---
 
-⭐ **Turning Data into Insights and Ideas into Projects**
+
