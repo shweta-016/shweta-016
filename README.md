@@ -1,14 +1,76 @@
-<h1 align="center">Hi 👋, I'm Shweta Jadhav</h1>
-<h3 align="center">Detail-oriented and passionate Data Science student with hands-on experience in machine learning, Python programming, data analysis, and visualization tools.</h3>
+<h1 align="center">Hi 👋, I'm Shweta Subhash Jadhav</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta-016&label=Profile%20views&color=0e75b6&style=flat" alt="shweta-016" /> </p>
+<h3 align="center">
+Machine Learning | Data Science | Python | Data Analysis | Visualization
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/shweta_jadhav016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shweta_jadhav016" height="30" width="40" /></a>
+---
+
+## 🚀 About Me
+- 🤖 Passionate about **Machine Learning, Deep Learning, Data Science, and AI**
+- 📊 Love turning **raw data into meaningful insights**
+- 🌱 Currently learning **OpenCV and Natural Language Processing**
+- 💻 Enjoy building **real-world ML and Data Science projects**
+- 📫 Reach me at **jadhavshweta477@gmail.com**
+
+---
+
+# 🛠️ Skills & Technologies
+
+### 📊 Data Science & Machine Learning
+Machine Learning , Data Analysis , Data Visualization , Deep Learning , Computer Vision , Natural Language Processing
+
+### 📚 Libraries & Frameworks
+Pandas , NumPy , Scikit-Learn , PyTorch , TensorFlow , Seaborn , Matplotlib , OpenCV
+
+### 💾 Databases
+MySQL , MongoDB
+
+### 🌐 Web Technologies
+HTML , CSS , JavaScript
+
+### ⚙️ Tools & Platforms
+Git , GitHub , Jupyter Notebook , VS Code
+
+
+---
+
+
+
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shweta-016&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shweta-016&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
 
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shweta-016&theme=tokyonight"/>
+</p>
+
+---
+
+
+---
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shweta-016/shweta-016/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shweta-016&theme=tokyonight"/>
+</p>
+
+---
+
+⭐ **Turning Data into Insights and Ideas into Projects**
