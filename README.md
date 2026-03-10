@@ -37,12 +37,5 @@ Git , GitHub , Jupyter Notebook , VS Code
 </p>
 
 <p align="center">
-  <img src="https://github.com/shweta-016/shweta-016/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/shweta-016/shweta-016/output/github-contribution-grid-snake-dark.svg">
 </p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shweta-016&theme=tokyonight"/>
-</p>
-
----
-
-
