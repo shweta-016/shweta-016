@@ -138,6 +138,9 @@ class Shweta:
 [![Kaggle](https://img.shields.io/badge/Kaggle-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=a78bfa)](https://www.kaggle.com/shweta016)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=a78bfa)](https://www.leetcode.com/shweta_jadhav016)
 [![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:jadhavshweta477@gmail.com)
+&nbsp;
+
+📧 **Email me at:** [jadhavshweta477@gmail.com](mailto:jadhavshweta477@gmail.com)
 
 </div>
 
