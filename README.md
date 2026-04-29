@@ -10,8 +10,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shweta-016&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/shweta-016?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/shweta-016)
-&nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/shweta-016?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=STARS)](https://github.com/shweta-016)
 
 </div>
@@ -27,7 +25,7 @@ class Shweta:
 
     name     = "Shweta Subhash Jadhav"
     college  = "DYPCET, Kolhapur 🏛️"
-    degree   = "B.Tech CSE-AIML — Final Year"
+    degree   = "B.Tech CSE-DS — Final Year"
 
     interests = [
         "Generative AI & LLMs",
@@ -37,7 +35,6 @@ class Shweta:
         "Data Science & Analytics"
     ]
 
-    currently_building = "ScholarAI — Research Paper Analyzer"
     learning           = ["OpenCV", "LangChain", "Vector DBs"]
     ask_me_about       = ["ML", "Deep Learning", "NLP", "Python"]
     email              = "jadhavshweta477@gmail.com"
@@ -152,6 +149,5 @@ class Shweta:
 
 *"The goal is to turn data into information, and information into insight."* ✨
 
-**⭐ Star my repos if you find them helpful!**
 
 </div>
